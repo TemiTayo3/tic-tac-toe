@@ -1,26 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=DM+Serif+Display:ital@0;1&family=Mukta:wght@200&family=Ubuntu&display=swap');
 
 *{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
     font-family: 'Bree Serif', sans-serif;
-}
-html{
-    overflow-x: hidden;
 }
 
 main{
     background-image: url(images/ticktack.jpg);
     background-size: cover;
-    /* height: 160vh; */
     width: 100%;
     padding-bottom: 50px;
 }
 
-.text-warning{
-    margin-left: -20px;
-}
 
 
 .board{
@@ -48,7 +38,4 @@ main{
 }
 
 
-.restart{
-    margin-left: -20px;
-}
 
